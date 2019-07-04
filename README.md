@@ -7,7 +7,7 @@ ReadMoreを実現するサイト
 https://readmore.netlify.com/
 
 ## 静的サイトの作り方
-1. サイトを普通に作成する
+1. 静的サイトを普通に作成する
 1. Netlify で　Gitから新しいサイト　よりGitHubと連携する。
 1. GitHubに、Pushすると自動で、Netlifyでも同期される。
 
